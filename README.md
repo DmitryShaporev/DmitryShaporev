@@ -16,10 +16,26 @@
 <h3>Теперь о тестировании. Как программиста, знающего "изнутри" потенциальные проблемы, возникающие при эксплуатации программного обеспечения, меня очень интересовал этот вопрос, поэтому решил досконально изучить и эту сферу деятельности. Окончил три курса (все с отличием) по тестированию ПО. Больше интересует, конечно, автоматизация. Но готов рассмотреть и предложения по ручному тестированию</h3> 
 <h3>Мои сертификаты:</h3>
 <div style="display: flex;">
-  
+    <img align="left"  src="QATest.jpg">
   <img align="left"  src="stepik1.jpg">
   <img align="left"  src="stepik2.jpg">
-   <img align="left"  src="QATest.jpg">
+ 
   
 </div>
+<div>
+<h3>Ключевые навыки:</h3>
+<img src="https://img.shields.io/badge/Программирование, тестирование ПО-blue">
+<img src="https://img.shields.io/badge/Функциональное тестирование-yellow">
+  <img src="https://img.shields.io/badge/Atlassian Jira-black">
+  <img src="https://img.shields.io/badge/Тестирование пользовательского интерфейса-orahge">
+  <img src="https://img.shields.io/badge/API-pink">
+  <img src="https://img.shields.io/badge/Test case-blue">
+  <img src="https://img.shields.io/badge/Автоматизация тестирования-red">
+  <img src="https://img.shields.io/badge/Selenium WebDriver-black">
+  <img src="https://img.shields.io/badge/JSON API-orahge">
+  <img src="https://img.shields.io/badge/Check list-pink">
+  <img src="https://img.shields.io/badge/Pytest-blue">
+  <img src="https://img.shields.io/badge/MS SQL-blue">
+  <img src="https://img.shields.io/badge/SCRUM-red">
+  </div>
 </div>
