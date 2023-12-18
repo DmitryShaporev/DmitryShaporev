@@ -38,5 +38,5 @@
   <img src="https://img.shields.io/badge/MS SQL-blue">
   <img src="https://img.shields.io/badge/SCRUM-red">
   </div>
-  <h3>Учебный проект по автоматизации тестирования на примере реального интернет-магазина: </h3>
+  <h3>Учебный проект по автоматизации тестирования на примере реального интернет-магазина:https://github.com/DmitryShaporev/SmokeTest </h3>
 </div>
