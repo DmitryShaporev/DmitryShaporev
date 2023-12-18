@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Visual FoxPro-yellow">
   <img src="https://img.shields.io/badge/Flask-black">
   <img src="https://img.shields.io/badge/JavaScript-orahge">
-  <img src="https://img.shields.io/badge/Jqwery-pink">
+  <img src="https://img.shields.io/badge/Jquery-pink">
   <img src="https://img.shields.io/badge/Sqlite-blue">
   
 </div>
